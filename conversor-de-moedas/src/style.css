@@ -1,0 +1,37 @@
+body {
+  font-family: 'Roboto Mono',monospace;
+  min-height: 400px;
+  background-image: url('https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/9b/44/38/hotel-oslo-coimbra.jpg?w=900&h=-1&s=1');
+  background-color: #000000;
+  background-size:cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+
+.container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+}
+
+.page-title {
+  color: #ffffff;
+  margin: 0 0 20px;
+}
+
+.page-subtitle {
+  color: #ffffff;
+  margin-top: 5px;
+}
+
+.page-logo {
+  width: 300px;
+  color-interpolation;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 10px;
+  right:10px;
+}
